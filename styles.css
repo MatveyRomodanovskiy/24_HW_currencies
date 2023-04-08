@@ -1,0 +1,56 @@
+#input{
+    display: flex;
+    flex-direction: column;
+    width: 90vw;
+    justify-content: center;
+    align-items: center;
+}
+#input-form{
+
+    display: flex;
+    flex-direction: column;
+    width: 90vw;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+}
+#label-to{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+}
+#label-from{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+}
+#selectors{
+    display: flex;
+    flex-direction: row;
+    width: 90vw;
+    justify-content: space-evenly;
+}
+#label-input{
+    display: flex;
+    flex-direction: row;
+    width: 40vw;
+    justify-content: center;
+    margin-top: 1vh;
+}
+#amountField{
+    margin-right: 5px;
+}
+#output{
+    display: flex;
+    flex-direction: row;
+    width: 90vw;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 1.2em;
+    font-weight: bold;
+    height: 10vh;
+}

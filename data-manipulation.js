@@ -1,5 +1,5 @@
 const url = 'https://api.apilayer.com/fixer';
-const apiKey = 'dpEm9NINFvKF6yDhrHmwY4SGHt9gwg4W';
+const apiKey = 'A20nCbVonifDewBkIjuTcZkMjiRiCkSh';
 const header = new Headers();
 header.append("apikey", apiKey);
 const requestOptions = {
